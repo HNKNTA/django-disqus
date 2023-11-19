@@ -1,3 +1,4 @@
 [submodule "docs/_build/html"]
 	path = docs/_build/html
-	url = git://github.com/arthurk/django-disqus.git
+	url = https://github.com/HNKNTA/django-disqus.git
+	branch = gh-pages
